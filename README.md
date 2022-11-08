@@ -5,5 +5,5 @@ Shell script to install and run Apache web-server. The contents of index.html wa
 ## Usage
 Run
 ```console
-sudo ./apache2
+sudo ./apache2.ch
 ```
